@@ -1,0 +1,39 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #000;
+    color: #fff;
+    margin: 10px;
+    width: 400px;
+  }
+  
+  h3 {
+    color: #fff;
+  }
+  
+  #popupContent {
+    margin-top: 20px;
+  }
+  
+  input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 2px;
+    box-sizing: border-box;
+  }
+  
+  div {
+    margin-bottom: 10px;
+  }
+
+  #saveButton, #addButton {
+    background-color: #3C46FF;
+    color: #fff;
+    padding: 10px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  #saveButton:hover, #addButton:hover {
+    background-color: #0000FF;
+  }

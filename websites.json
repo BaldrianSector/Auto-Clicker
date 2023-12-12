@@ -1,0 +1,18 @@
+[
+    {
+       "url": "https://dmjx.itslearning.com/index.aspx?SessionExpired=0",
+       "buttonText": "DMJX Login",
+       "buttonIdentifier": "h-box-sizing-bb"
+    },
+    {
+       "url": "https://fs.dmjx.dk/adfs/ls/?SAMLRequest=fZJPT8MwDMW%2FSpV7myZr2YjWSoMJMWmIaiscuKCsdbdAm5Q4nfbx6Tr%2BjAM72vLz%2B%2FnJU5RN3YpZ53Z6BR8doPMW84S8ymLCJ9es8GOIN37EJfibcBL5cRiHMCrZOKoY8Z7BojI6ITwIibdA7GCh0Unt%2BlbIRz7jPmM55yK6EiwKxvEL8ea9idLSDcKdcy0KSisMyubtEJTvVJYV0hop8e6MLWBgS0gla4SjRyYR1R5%2BOpk1zhSmvlG6VHqbkM5qYSQqFFo2gMIVYj17WIqeUWxOQyju8zzzs8d1TrwZItgjza3R2DVg12D3qoCn1fKXDzoWKIc1SKv7BUFhGgpLs1Wa%2FqcPJLYH4h2aWqMYcr7M1n4dQtLpcVoMcdoz%2FWW5%2FMYg6SVopR1s7ZA%2B0uPWBpwspZNDwfecjqb0zD89VX9%2FJP0E&RelayState=ItsL1eyJjIjowLCJuIjoiZG1qeCIsInMiOjB90",
+       "buttonText": "Log på",
+       "buttonIdentifier": "submitButton"
+    },
+    {
+       "url": "https://chat.openai.com/auth/login",
+       "buttonText": "Log in",
+       "buttonIdentifier": "relative"
+    }
+ ]
+ 
